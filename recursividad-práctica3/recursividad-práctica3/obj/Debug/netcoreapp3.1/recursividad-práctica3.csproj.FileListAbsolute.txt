@@ -1,0 +1,13 @@
+C:\Users\SOPORTE\source\repos\recursividad-práctica3\recursividad-práctica3\obj\Debug\netcoreapp3.1\recursividad-práctica3.csprojAssemblyReference.cache
+C:\Users\SOPORTE\source\repos\recursividad-práctica3\recursividad-práctica3\obj\Debug\netcoreapp3.1\recursividad-práctica3.AssemblyInfoInputs.cache
+C:\Users\SOPORTE\source\repos\recursividad-práctica3\recursividad-práctica3\obj\Debug\netcoreapp3.1\recursividad-práctica3.AssemblyInfo.cs
+C:\Users\SOPORTE\source\repos\recursividad-práctica3\recursividad-práctica3\obj\Debug\netcoreapp3.1\recursividad-práctica3.csproj.CoreCompileInputs.cache
+C:\Users\SOPORTE\source\repos\recursividad-práctica3\recursividad-práctica3\bin\Debug\netcoreapp3.1\recursividad-práctica3.exe
+C:\Users\SOPORTE\source\repos\recursividad-práctica3\recursividad-práctica3\bin\Debug\netcoreapp3.1\recursividad-práctica3.deps.json
+C:\Users\SOPORTE\source\repos\recursividad-práctica3\recursividad-práctica3\bin\Debug\netcoreapp3.1\recursividad-práctica3.runtimeconfig.json
+C:\Users\SOPORTE\source\repos\recursividad-práctica3\recursividad-práctica3\bin\Debug\netcoreapp3.1\recursividad-práctica3.runtimeconfig.dev.json
+C:\Users\SOPORTE\source\repos\recursividad-práctica3\recursividad-práctica3\bin\Debug\netcoreapp3.1\recursividad-práctica3.dll
+C:\Users\SOPORTE\source\repos\recursividad-práctica3\recursividad-práctica3\bin\Debug\netcoreapp3.1\recursividad-práctica3.pdb
+C:\Users\SOPORTE\source\repos\recursividad-práctica3\recursividad-práctica3\obj\Debug\netcoreapp3.1\recursividad-práctica3.dll
+C:\Users\SOPORTE\source\repos\recursividad-práctica3\recursividad-práctica3\obj\Debug\netcoreapp3.1\recursividad-práctica3.pdb
+C:\Users\SOPORTE\source\repos\recursividad-práctica3\recursividad-práctica3\obj\Debug\netcoreapp3.1\recursividad-práctica3.genruntimeconfig.cache

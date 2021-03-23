@@ -1,0 +1,13 @@
+C:\Users\SOPORTE\Documents\PROGRAMACIÓN III - SANTIAGO NOREÑA\recursividad-práctica\recursividad-práctica\bin\Debug\netcoreapp3.1\recursividad-práctica.exe
+C:\Users\SOPORTE\Documents\PROGRAMACIÓN III - SANTIAGO NOREÑA\recursividad-práctica\recursividad-práctica\bin\Debug\netcoreapp3.1\recursividad-práctica.deps.json
+C:\Users\SOPORTE\Documents\PROGRAMACIÓN III - SANTIAGO NOREÑA\recursividad-práctica\recursividad-práctica\bin\Debug\netcoreapp3.1\recursividad-práctica.runtimeconfig.json
+C:\Users\SOPORTE\Documents\PROGRAMACIÓN III - SANTIAGO NOREÑA\recursividad-práctica\recursividad-práctica\bin\Debug\netcoreapp3.1\recursividad-práctica.runtimeconfig.dev.json
+C:\Users\SOPORTE\Documents\PROGRAMACIÓN III - SANTIAGO NOREÑA\recursividad-práctica\recursividad-práctica\bin\Debug\netcoreapp3.1\recursividad-práctica.dll
+C:\Users\SOPORTE\Documents\PROGRAMACIÓN III - SANTIAGO NOREÑA\recursividad-práctica\recursividad-práctica\bin\Debug\netcoreapp3.1\recursividad-práctica.pdb
+C:\Users\SOPORTE\Documents\PROGRAMACIÓN III - SANTIAGO NOREÑA\recursividad-práctica\recursividad-práctica\obj\Debug\netcoreapp3.1\recursividad-práctica.csprojAssemblyReference.cache
+C:\Users\SOPORTE\Documents\PROGRAMACIÓN III - SANTIAGO NOREÑA\recursividad-práctica\recursividad-práctica\obj\Debug\netcoreapp3.1\recursividad-práctica.AssemblyInfoInputs.cache
+C:\Users\SOPORTE\Documents\PROGRAMACIÓN III - SANTIAGO NOREÑA\recursividad-práctica\recursividad-práctica\obj\Debug\netcoreapp3.1\recursividad-práctica.AssemblyInfo.cs
+C:\Users\SOPORTE\Documents\PROGRAMACIÓN III - SANTIAGO NOREÑA\recursividad-práctica\recursividad-práctica\obj\Debug\netcoreapp3.1\recursividad-práctica.csproj.CoreCompileInputs.cache
+C:\Users\SOPORTE\Documents\PROGRAMACIÓN III - SANTIAGO NOREÑA\recursividad-práctica\recursividad-práctica\obj\Debug\netcoreapp3.1\recursividad-práctica.dll
+C:\Users\SOPORTE\Documents\PROGRAMACIÓN III - SANTIAGO NOREÑA\recursividad-práctica\recursividad-práctica\obj\Debug\netcoreapp3.1\recursividad-práctica.pdb
+C:\Users\SOPORTE\Documents\PROGRAMACIÓN III - SANTIAGO NOREÑA\recursividad-práctica\recursividad-práctica\obj\Debug\netcoreapp3.1\recursividad-práctica.genruntimeconfig.cache

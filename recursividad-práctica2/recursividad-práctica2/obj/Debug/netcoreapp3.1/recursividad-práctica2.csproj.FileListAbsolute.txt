@@ -1,0 +1,4 @@
+C:\Users\SOPORTE\Documents\PROGRAMACIÓN III - SANTIAGO NOREÑA\recursividad-práctica2\recursividad-práctica2\obj\Debug\netcoreapp3.1\recursividad-práctica2.csprojAssemblyReference.cache
+C:\Users\SOPORTE\Documents\PROGRAMACIÓN III - SANTIAGO NOREÑA\recursividad-práctica2\recursividad-práctica2\obj\Debug\netcoreapp3.1\recursividad-práctica2.AssemblyInfoInputs.cache
+C:\Users\SOPORTE\Documents\PROGRAMACIÓN III - SANTIAGO NOREÑA\recursividad-práctica2\recursividad-práctica2\obj\Debug\netcoreapp3.1\recursividad-práctica2.AssemblyInfo.cs
+C:\Users\SOPORTE\Documents\PROGRAMACIÓN III - SANTIAGO NOREÑA\recursividad-práctica2\recursividad-práctica2\obj\Debug\netcoreapp3.1\recursividad-práctica2.csproj.CoreCompileInputs.cache
